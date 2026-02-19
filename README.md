@@ -3,17 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asg-7" alt="asg-7" /></a> </p>
 
-- 🔭 I’m currently working on **responsive login form**
-
-- 🌱 I’m currently learning **Cloud computing and frontend development**
-
-- 👯 I’m looking to collaborate on **cloud native projects and frontend based projects**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 👨‍💻 All of my projects are available at [github.com/asg-7](github.com/asg-7)
-
-- 💬 Ask me about **HTML ,CSS , Javascript, Typescript, Java, Python**
+- 🔭 Building **Generative AI micro-solutions** that solve real problems.
+- 🌱 Leveling up my **MLOps & CI/CD** game to deploy AI at scale.
+- 👯 Open to collaborating on **cloud-native apps** and **AI-driven frontends**.
+- 🤝 Specifically looking for **DevOps mentorship** to harden my deployment skills.
+- 👨‍💻 Project portfolio: [github.com/asg-7](https://github.com/asg-7)
+- 💬 Tech stack: **Python • JS/TS • Java • HTML/CSS** (with a focus on AI integration).
 
 - 📫 How to reach me **anubhavsengupta168@gmail.com**
 
